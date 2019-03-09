@@ -1,7 +1,7 @@
 # pokedex
 
 Turn your smartphone into a Pokedex with this app.
-
+![alt text](https://github.com/moksh-mahajan/PokeDex/blob/master/photo6062172405469653105.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
